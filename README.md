@@ -43,8 +43,7 @@ Ian
 1. Download or clone this repository.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/photography-portfolio.git
-```
+iankenya234.github.io/photo/```
 
 2. Open the folder.
 
@@ -58,14 +57,9 @@ Open the folder in VS Code and launch with Live Server.
 
 ## Live Website
 
-GitHub Repository
-
-https://github.com/YOUR_USERNAME/photography-portfolio
-
 GitHub Pages
 
-https://YOUR_USERNAME.github.io/photography-portfolio/
-
+iankenya234.github.io/photo/
 ---
 
 ## Project Structure
@@ -104,12 +98,10 @@ photography-portfolio/
 
 Email:
 
-your-email@example.com
-
+ianmusili0@gmail.com
 GitHub:
 
-https://github.com/YOUR_USERNAME
-
+iankenya234.github.io/photo/
 ---
 
 ## License
